@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna!
-- 👀 I’m looking for Junior Data Analyst / Data Scientists in Berlin or remotely with EU. 
+- 👀 I’m looking for Junior Data Analyst / Data Scientists in Berlin or remotely within EU. 
 - 🌱 I’m currently learning text mining via coursera. 
 - 📫 Reach me via email (anna.makova@hotmail.com) or Twitter (@Anna_Mak_)
 
